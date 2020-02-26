@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 13 11:08:37 2020
-
-@author: DW4
-"""
 
 classes_held = 200
 classes_attended = int(input("enter number of classes attended: "))
