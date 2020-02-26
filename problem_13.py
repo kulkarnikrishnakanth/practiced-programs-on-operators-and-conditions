@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 13 11:31:37 2020
-
-@author: DW4
-"""
 
 quantity = float(input("enter no.of units required: "))
 total_price = quantity * 100
