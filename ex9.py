@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 12 12:15:10 2020
-
-@author: DW4
-"""
 
 age = int(input("enter age: "))
 gender = input("enter gender (M/F): ")
