@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 12 13:46:06 2020
 
-@author: DW4
-"""
 num = int(input("enter a value: "))
 if num >= 10000:
     first_digit = num % 10
