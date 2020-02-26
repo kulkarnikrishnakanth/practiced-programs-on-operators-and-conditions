@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 13 13:14:30 2020
-
-@author: DW4
-"""
 
 length = float(input("enter length: "))
 breadth = float(input("enter breadth: "))
