@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 12 17:07:16 2020
-
-@author: DW4
-"""
 
 base_salary = float(input("enter base salary: "))
 experience = float(input("enter your work experience: "))
